@@ -1,0 +1,15 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/player/vad36cssbeta/ct_delta_glass"
+	
+
+// Specularity
+	"$envmap" 			"env_cubemap"
+	"$envmapmask" "models/player/vad36cssbeta/ct_delta_glass_spec"
+
+
+// Transparency
+	"$translucent" 1
+	
+	
+}
